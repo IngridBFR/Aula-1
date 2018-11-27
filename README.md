@@ -2,4 +2,4 @@
 Arquivos da primeira aula de versionamento 
 A de amor
 
-Ingrid não gosta de Lucas.
+No no no
